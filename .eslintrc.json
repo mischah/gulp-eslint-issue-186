@@ -1,6 +1,3 @@
 {
-  "extends": "xo-space/esnext",
-  "rules": {
-    "no-console": ["warn"]
-  }
+  "extends": "xo-space/esnext"
 }
