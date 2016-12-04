@@ -1,0 +1,24 @@
+{
+  "name": "gulp-eslint-issue-186",
+  "version": "1.0.0",
+  "description": "Test repo regarding https://github.com/adametry/gulp-eslint/issues/186",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mischah/gulp-eslint-issue-186.git"
+  },
+  "author": "Michael Kühnel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mischah/gulp-eslint-issue-186/issues"
+  },
+  "homepage": "https://github.com/mischah/gulp-eslint-issue-186#readme"
+}
